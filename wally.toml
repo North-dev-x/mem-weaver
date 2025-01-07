@@ -1,0 +1,9 @@
+[package]
+name = "north-dev-x/mem-weaver"
+version = "0.2.0"
+description = "An easy to use low-level buffer serialization library."
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+repository = "https://github.com/North-dev-x/mem-weaver"
+
+[dependencies]
