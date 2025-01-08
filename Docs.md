@@ -60,8 +60,14 @@ Try to over-allocate at the start, and scale down until it overflows if you need
 
 #### Vector3
 Vector3 is represented by 3 `f32`s, taking up 12 bytes of space.
+#### Vector3int16
+Vector3int16 is represented by 3 `i16`s, taking up 6 bytes of space.
 #### Vector2
 Vector2 is represented by 2 `f32`s, taking up 8 bytes of space.
+#### Vector2int16
+Vector2int16 is represented by 2 `i16`s, taking up 4 bytes of space.
+#### Color3
+Color3 is represented by 2 `i8`s, taking up 3 bytes of space.
 #### CFrame
 CFrame is represented by 6 `f32`s, taking up 24 bytes of space.
 
