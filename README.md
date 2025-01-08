@@ -2,6 +2,10 @@
 
 Buffers can make events fire faster due to using less bandwidth.
 
+[Toolbox Link](https://create.roblox.com/store/asset/114591745457124/memweaver?viewFromStudio=true&keyword=&searchId=735ccd4b-8742-4b12-8461-e4525a11c212)
+
+[Wally](https://wally.run/package/north-dev-x/mem-weaver)
+
 ## Supported Types
 The buffers fully support the following types:
 - float (32 and 64)
