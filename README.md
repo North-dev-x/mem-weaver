@@ -15,7 +15,10 @@ The buffers fully support the following types:
 - tables
 	Tables only support simple datatypes, Vector3, Vector2, and CFrame are not supported within tables.
 - Vector3
+- Vector3int16
 - Vector2
+- Vector2int16
+- Color3
 - CFrame
 
 ## Usage
