@@ -11,16 +11,16 @@ The buffers fully support the following types:
 - float (32 and 64)
 - integer
 
-Supported with 8, 16, and 32 bit integers.
-64 bit integers *are* supported, but they have to be encoded as a string, 
-which takes up an extra byte (9 bytes instead of 8).
+	Supported with 8, 16, and 32 bit integers.
+	64 bit integers *are* supported, but they have to be encoded as a string, 
+	which takes up an extra byte (9 bytes instead of 8).
 - string
 
-  Strings only support ASCII characters.
+ 	 Strings only support ASCII characters.
 - boolean
 - tables
 
-  Tables only support simple datatypes, Vector3, Vector2, and CFrame are not supported within tables.
+ 	 Tables only support simple datatypes, Vector3, Vector2, and CFrame are not supported within tables.
 - Vector3
 - Vector3int16
 - Vector2
