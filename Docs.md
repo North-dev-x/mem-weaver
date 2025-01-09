@@ -37,13 +37,16 @@ A reference of the size(in bytes) of all supported types.
 `i8` - 
 	Represents integers between -255 and 255. 
 	Takes up 1 byte of space.
+ 
 `i16` - 
 	Represents integers between -65,535 and 65,535. 
 	Takes up 2 bytes of space.
+ 
 `i32` - 
 	Represents integers between -4,294,967,295 and 4,294,967,295. 
 	Takes up 4 bytes of space.
-`i72 -
+ 
+`i72` -
 	Represents integers between -9,007,199,254,740,992 and 9,007,199,254,740,992.
 	Takes up 9 bytes of space due to needing to be encoded as a CBOR string.
 	
