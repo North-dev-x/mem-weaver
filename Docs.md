@@ -71,7 +71,7 @@ Vector2 is represented by 2 `f32`s, taking up 8 bytes of space.
 #### Vector2int16
 Vector2int16 is represented by 2 `i16`s, taking up 4 bytes of space.
 #### Color3
-Color3 is represented by 2 `i8`s, taking up 3 bytes of space.
+Color3 is represented by 3 `i8`s, taking up 3 bytes of space.
 #### CFrame
 CFrame is represented by 6 `f32`s, taking up 24 bytes of space.
 
