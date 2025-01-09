@@ -128,7 +128,7 @@ local buf = alloc(12)
 uh oh! we overwrite the string with a larger string, encroaching on 
 the memory space that position 2 takes up, corrupting both pieces of memory
 ]]
-buf:write_at(1, "Hello, world!)
+buf:write_at(1, "Hello, world!")
 
 -- Attempting to read the corrupted memory will give unpredictable results
 print(buf:read()) -- outputs {[1] = "Hell", [2] = 3.174034971262635}
