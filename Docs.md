@@ -28,6 +28,7 @@ A reference of the size(in bytes) of all supported types.
 `f32` - 
 	Represents a floating-point value with 7 digits of precision.
 	Takes up 4 bytes of space.
+ 
 `f64` - 
 	Represents a floating-point value with 15 digits of precision.
 	Takes up 8 bytes of space.
